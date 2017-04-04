@@ -1,0 +1,208 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/HardwareSerial.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/IPAddress.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/MACAddress.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/PString.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/PStringD.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Print.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/PrintD.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/SPI.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/SerialObjects.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/SpiObjects.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Stream.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Tone.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WMath.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WString.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WStringD.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Wire.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/WireObjects.cpp \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/new.cpp 
+
+C_SRCS += \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/Board_init.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WInterrupts.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/avr/dtostrf.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/itoa.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/package/package_ti.runtime.wiring.msp432.variants.MSP_EXP432P401R.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/pins.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/random.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/msp432/wiring.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/msp432/wiring_analog.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/wiring_digital.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/wiring_pulse.c \
+C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/wiring_shift.c 
+
+C_DEPS += \
+./Board_init.d \
+./WInterrupts.d \
+./dtostrf.d \
+./itoa.d \
+./package_ti.runtime.wiring.msp432.variants.MSP_EXP432P401R.d \
+./pins.d \
+./random.d \
+./wiring.d \
+./wiring_analog.d \
+./wiring_digital.d \
+./wiring_pulse.d \
+./wiring_shift.d 
+
+OBJS += \
+./Board_init.o \
+./HardwareSerial.o \
+./IPAddress.o \
+./MACAddress.o \
+./PString.o \
+./PStringD.o \
+./Print.o \
+./PrintD.o \
+./SPI.o \
+./SerialObjects.o \
+./SpiObjects.o \
+./Stream.o \
+./Tone.o \
+./WInterrupts.o \
+./WMath.o \
+./WString.o \
+./WStringD.o \
+./Wire.o \
+./WireObjects.o \
+./dtostrf.o \
+./itoa.o \
+./new.o \
+./package_ti.runtime.wiring.msp432.variants.MSP_EXP432P401R.o \
+./pins.o \
+./random.o \
+./wiring.o \
+./wiring_analog.o \
+./wiring_digital.o \
+./wiring_pulse.o \
+./wiring_shift.o 
+
+CPP_DEPS += \
+./HardwareSerial.d \
+./IPAddress.d \
+./MACAddress.d \
+./PString.d \
+./PStringD.d \
+./Print.d \
+./PrintD.d \
+./SPI.d \
+./SerialObjects.d \
+./SpiObjects.d \
+./Stream.d \
+./Tone.d \
+./WMath.d \
+./WString.d \
+./WStringD.d \
+./Wire.d \
+./WireObjects.d \
+./new.d 
+
+OBJS__QUOTED += \
+"Board_init.o" \
+"HardwareSerial.o" \
+"IPAddress.o" \
+"MACAddress.o" \
+"PString.o" \
+"PStringD.o" \
+"Print.o" \
+"PrintD.o" \
+"SPI.o" \
+"SerialObjects.o" \
+"SpiObjects.o" \
+"Stream.o" \
+"Tone.o" \
+"WInterrupts.o" \
+"WMath.o" \
+"WString.o" \
+"WStringD.o" \
+"Wire.o" \
+"WireObjects.o" \
+"dtostrf.o" \
+"itoa.o" \
+"new.o" \
+"package_ti.runtime.wiring.msp432.variants.MSP_EXP432P401R.o" \
+"pins.o" \
+"random.o" \
+"wiring.o" \
+"wiring_analog.o" \
+"wiring_digital.o" \
+"wiring_pulse.o" \
+"wiring_shift.o" 
+
+C_DEPS__QUOTED += \
+"Board_init.d" \
+"WInterrupts.d" \
+"dtostrf.d" \
+"itoa.d" \
+"package_ti.runtime.wiring.msp432.variants.MSP_EXP432P401R.d" \
+"pins.d" \
+"random.d" \
+"wiring.d" \
+"wiring_analog.d" \
+"wiring_digital.d" \
+"wiring_pulse.d" \
+"wiring_shift.d" 
+
+CPP_DEPS__QUOTED += \
+"HardwareSerial.d" \
+"IPAddress.d" \
+"MACAddress.d" \
+"PString.d" \
+"PStringD.d" \
+"Print.d" \
+"PrintD.d" \
+"SPI.d" \
+"SerialObjects.d" \
+"SpiObjects.d" \
+"Stream.d" \
+"Tone.d" \
+"WMath.d" \
+"WString.d" \
+"WStringD.d" \
+"Wire.d" \
+"WireObjects.d" \
+"new.d" 
+
+C_SRCS__QUOTED += \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/Board_init.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WInterrupts.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/avr/dtostrf.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/itoa.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/package/package_ti.runtime.wiring.msp432.variants.MSP_EXP432P401R.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/pins.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/random.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/msp432/wiring.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/msp432/wiring_analog.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/wiring_digital.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/wiring_pulse.c" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/wiring_shift.c" 
+
+CPP_SRCS__QUOTED += \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/HardwareSerial.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/IPAddress.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/MACAddress.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/PString.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/PStringD.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Print.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/PrintD.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/SPI.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/SerialObjects.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/SpiObjects.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Stream.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Tone.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WMath.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WString.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/WStringD.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/Wire.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/variants/MSP_EXP432P401R/WireObjects.cpp" \
+"C:/Users/cdgja/AppData/Local/Energia15/packages/energia/hardware/msp432/3.8.0/cores/msp432/ti/runtime/wiring/new.cpp" 
+
+

@@ -1,0 +1,26 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+C:/energia-1.6.10E18/libraries/PubSubClient/PubSubClient.cpp 
+
+OBJS += \
+./PubSubClient.o 
+
+CPP_DEPS += \
+./PubSubClient.d 
+
+OBJS__QUOTED += \
+"PubSubClient.o" 
+
+CPP_DEPS__QUOTED += \
+"PubSubClient.d" 
+
+CPP_SRCS__QUOTED += \
+"C:/energia-1.6.10E18/libraries/PubSubClient/PubSubClient.cpp" 
+
+

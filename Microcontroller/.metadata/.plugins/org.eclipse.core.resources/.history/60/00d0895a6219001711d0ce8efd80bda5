@@ -1,0 +1,37 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+./Example2.cpp \
+./main.cpp 
+
+INO_SRCS += \
+../Example2.ino 
+
+OBJS += \
+./Example2.o \
+./main.o 
+
+CPP_DEPS += \
+./Example2.d \
+./main.d 
+
+OBJS__QUOTED += \
+"Example2.o" \
+"main.o" 
+
+CPP_DEPS__QUOTED += \
+"Example2.d" \
+"main.d" 
+
+CPP_SRCS__QUOTED += \
+"./Example2.cpp" \
+"Example2.cpp" \
+"./main.cpp" \
+"main.cpp" 
+
+
